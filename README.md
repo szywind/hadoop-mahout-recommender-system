@@ -5,7 +5,7 @@ A recommender system with hadoop and mahout
 - `mahout in action`
 - [基于hadoop下的mahout推荐系统实现](http://blog.csdn.net/sun_wangdong/article/details/59483790)
 
-## Notes
+## Notes:
 1. Build and Generate .jar  
 
 File | Project Structure | Artifacts then you should press alt+insert or click the plus icon and create new artifact choose --> jar --> From modules with dependencies.
