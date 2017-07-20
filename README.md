@@ -1,5 +1,5 @@
 # hadoop-mahout-recosys
-A recommender system with hadoop and mahout
+A recommender system built on hadoop and mahout
 
 ## References:
 - `mahout in action`
